@@ -1,9 +1,9 @@
 ## Developer View
 Hi everyone !.
 this project basically i used to demonstrate e-commerce web application using react 
-this cantains both client and server side codes its in progress right now 
+this project contains both client and server side codes its in progress right now .......
 this project is basically involves react-js , express and jode-js , Mongo-DB 
-//in-addition-to that : if you want to integrate any react application to mysql backend then we need a package called mysql2 
+//in-addition-to that : if you want to integrate any react application to mysql databse then we need a package called mysql2 
 
 
 
